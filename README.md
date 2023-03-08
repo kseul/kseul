@@ -19,8 +19,7 @@
 </div>
 
 <br/>
-<br/>
-  
+
 ####  📌 Github Stats
  
 ![kseul's github stats](https://github-readme-stats.vercel.app/api?username=kseul&show_icons=true&theme=radical) 
